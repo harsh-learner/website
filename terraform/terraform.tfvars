@@ -1,0 +1,5 @@
+ami = "ami-0aff18ec83b712f05"
+master_instance_type = "t2.medium"
+slave_instance_type = "t2.micro"
+subnet_id = "subnet-013d8f5f0f962f5fc"
+key_name = "Demo"
